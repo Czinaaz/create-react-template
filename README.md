@@ -106,7 +106,7 @@ the line are required.
 
 
 
-# React homework template
+# React template
 
 Этот проект был создан при помощи
 [Create React App](https://github.com/facebook/create-react-app). Для знакомства
